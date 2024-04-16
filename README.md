@@ -8,9 +8,9 @@ plotCDS("/home/gaurav/Desktop/final_code_push/multi.gff",
                  "/home/gaurav/Desktop/final_code_push/multi.txt")
 ```
 
-Gaurav Sablok
-Academic Staff Member
-Bioinformatics
-Institute for Biochemistry and Biology
-University of Potsdam
+Gaurav Sablok \
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
 Potsdam,Germany
