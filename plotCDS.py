@@ -1,4 +1,4 @@
-def plotCDS(inputfile, outputfile):
+def plotCDS(inputgff, outputfile):
     """
     Author: Gaurav Sablok
     Universitat Potsdam
